@@ -1,5 +1,5 @@
-# 🤖AR15BOT🤖
-BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
+# Aqip BOT
+BOT WHATSAPP TERMUX ONLY
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -29,7 +29,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## Features
 
-| AR15BOT      |                   Feature        |
+| AQIP BOT      |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -69,9 +69,3 @@ Ket: Aktiv 24 jam
 
 ## Note
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS187 ID)
-
-## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
-
